@@ -1,6 +1,6 @@
 ## Learning_terraform
 
-Bxx
+Bx
 
 
 
